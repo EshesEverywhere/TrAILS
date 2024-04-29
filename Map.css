@@ -1,0 +1,5 @@
+#map {
+  height: 720px;
+  width: 1180px;
+  margin: auto; /* Center the map horizontally */
+}

@@ -1,0 +1,11 @@
+/* App.css */
+.App {
+  display: flex; /* Use flexbox layout */
+  flex-direction: column; /* Stack components vertically */
+  align-items: center; /* Center components horizontally */
+}
+
+.components-container {
+  display: flex; /* Use flexbox layout */
+  gap: 100px; /* Add some space between components */
+}
